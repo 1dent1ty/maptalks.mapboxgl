@@ -1,5 +1,5 @@
 /*!
- * maptalks.mapboxgl v0.2.0
+ * maptalks.mapboxgl v0.2.7
  * LICENSE : MIT
  * (c) 2016-2017 maptalks.org
  */
